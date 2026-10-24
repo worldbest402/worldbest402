@@ -75,7 +75,9 @@ Conducted a simulated digital forensic investigation involving computer and mobi
 
 ### 🔐 03 | Application Security & Secure Development
 
-#### Secure Login Application — Flask Authentication System
+
+#### [Secure Login Application — Flask Authentication System](https://github.com/worldbest402/secure-login-system)
+
 
 Developed and tested a security-focused web authentication application using Python, Flask and SQLite.
 
@@ -84,13 +86,13 @@ Developed and tested a security-focused web authentication application using Pyt
 **Key achievements:**
 - Implemented bcrypt password hashing and input validation.
 - Used parameterised SQL queries to reduce SQL injection risks.
-- Implemented authentication controls, CSRF protection and account lockout.
+- Implemented session-based authentication controls and temporary account lockout.
 - Conducted static analysis and application security testing.
 - Applied STRIDE threat modelling during system design.
 
 **Focus:** Secure Coding · Authentication · Application Security · Security Testing
 
-[View Secure Programming Repositories](https://github.com/worldbest402/secure-login-system)
+[View Project Documentation](https://github.com/worldbest402/secure-login-system)
 
 
 
