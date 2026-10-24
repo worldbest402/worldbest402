@@ -136,9 +136,12 @@ Developed and tested a security-focused web authentication application using Pyt
 
 I use practical labs to reinforce technical knowledge, develop troubleshooting skills and document what I learn.
 
-### 🛡️ CompTIA Security+ — Practical Security Labs
+
+### 🛡️ [CompTIA Security+ — Practical Security Labs](https://github.com/worldbest402/comptia-security-plus-practical-labs)
+
 
 Hands-on exercises applying cybersecurity concepts to system security, monitoring, access control and security operations.
+
 
 **Practical areas:**
 - Security architecture and system hardening
@@ -149,7 +152,9 @@ Hands-on exercises applying cybersecurity concepts to system security, monitorin
 
 **Focus:** Defensive Security · Security Operations · System Hardening · Investigation
 
-[View Security+ Lab Repositories](https://github.com/worldbest402/comptia-security-plus-practical-labs)
+
+[View Practical Labs](https://github.com/worldbest402/comptia-security-plus-practical-labs)
+
 
 *Practical training and documentation in progress. This is not a claim of holding the official CompTIA Security+ certification.
 
