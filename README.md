@@ -132,31 +132,28 @@ Developed and tested a security-focused web authentication application using Pyt
 
 ---
 
+
 ## 🧪 Hands-On Security Training & Labs
 
-I use practical labs to reinforce technical knowledge, develop troubleshooting skills and document what I learn.
+I use practical labs to strengthen my technical knowledge, develop troubleshooting and investigation skills, and apply cybersecurity concepts in controlled environments.
 
+### 🛡️ [CompTIA Security+ (SY0-701) — Practical Security Labs](https://github.com/worldbest402/comptia-security-plus-practical-labs)
 
-### 🛡️ [CompTIA Security+ — Practical Security Labs](https://github.com/worldbest402/comptia-security-plus-practical-labs)
+Completed and documented selected hands-on exercises as part of my CompTIA Security+ training, covering security configuration, vulnerability assessment, identity management, log investigation and automation fundamentals.
 
+**Documented practical areas:**
+- **Security Architecture & Infrastructure** — Windows Server, Active Directory, Docker, VPN configuration and monitoring.
+- **Vulnerability Management** — Vulnerability scanning, findings analysis and risk-based remediation fundamentals.
+- **Identity & Access Management** — Active Directory user and group management, PowerShell provisioning and Linux permissions.
+- **Investigative Data Sources** — Linux audit logs, SSH authentication analysis, Windows Firewall logs and event correlation.
+- **Security Operations Automation** — Bash backup scripting and PowerShell network drive mapping.
 
-Hands-on exercises applying cybersecurity concepts to system security, monitoring, access control and security operations.
+**Focus:** Defensive Security · Security Operations · Vulnerability Management · Identity & Access Management · Automation
 
+📂 **[Explore Completed Practical Labs](https://github.com/worldbest402/comptia-security-plus-practical-labs)**
 
-**Practical areas:**
-- Security architecture and system hardening
-- Vulnerability assessment and mitigation
-- Security monitoring and defensive controls
-- Identity and access management
-- File integrity, backup strategies and secure data sanitisation
+*Training status: CompTIA Security+ practical labs completed. Official CompTIA Security+ certification not claimed.*
 
-**Focus:** Defensive Security · Security Operations · System Hardening · Investigation
-
-
-[View Practical Labs](https://github.com/worldbest402/comptia-security-plus-practical-labs)
-
-
-*Practical training and documentation in progress. This is not a claim of holding the official CompTIA Security+ certification.
 
 ---
 
